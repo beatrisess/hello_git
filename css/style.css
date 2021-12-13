@@ -15,7 +15,7 @@ color: #000000;
 .left {
     width: 350px;
     height: 450px;
-    background-color: #0f0f0f;
+    background-color: #272727;
     color: white;
     padding: 18px;
     padding-bottom: 0px;
@@ -35,14 +35,14 @@ color: #000000;
 
 .right::first-letter {
 
-    color: red;
+    color: rgb(11, 48, 255);
 }
 
 
 .title {
     font-size: 48px;
     margin: 0;
-    color:#9fe466;
+    color:#bb5858;
 }
 
 
